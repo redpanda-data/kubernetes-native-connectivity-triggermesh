@@ -1,6 +1,6 @@
 # Kubernetes-native connectivity for Redpanda with TriggerMesh, example with AWS S3
 
-This is the code used in a tutorial where we use TriggerMesh to stream data from a Redpanda topic into an AWS S3 bucket—the Kubernetes-native way. To read the whole explanation, check the blog post "Kubernetes-native connectivity for Redpanda with TriggerMesh".
+This is the code used in a tutorial where we use TriggerMesh to stream data from a Redpanda topic into an AWS S3 bucket—the Kubernetes-native way. To read the whole explanation, check the blog post [Kubernetes-native connectivity for Redpanda with TriggerMesh](https://redpanda.com/blog/connect-sources-sinks-kubernetes-amazon-s3).
 
 The post dives into a specific example of using TriggerMesh to stream data from a Redpanda topic into an AWS S3 bucket, with everything running the Kubernetes-native way. 
 
